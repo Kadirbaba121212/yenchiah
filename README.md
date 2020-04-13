@@ -1,2 +1,0 @@
-# yenchiah
-Created with CodeSandbox
